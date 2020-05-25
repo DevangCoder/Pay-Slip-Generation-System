@@ -1,0 +1,20 @@
+1
+Devang Gupta
+f-186
+manager
+IT
+Contractual
+20000
+200
+2000
+17800
+2
+Naman
+d234
+Intern
+Payroll
+Contractual
+10000
+200
+800
+9000
